@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Tracker: clean up GMC (#8003)
